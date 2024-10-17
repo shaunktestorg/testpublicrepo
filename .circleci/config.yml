@@ -1,0 +1,13 @@
+version: 2.1
+jobs:
+  hello-job:
+    docker:
+      - image: cimg/go:1.22.5
+    steps:
+      - checkout # check out the code in the project directory
+      - run: echo hello
+
+workflows:
+  my-workflow:
+    jobs:
+      - hello-job:
