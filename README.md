@@ -1,4 +1,4 @@
-# testpublicrepo - editing line1
+# testpublicrepo
 
 My change 10.1
 
