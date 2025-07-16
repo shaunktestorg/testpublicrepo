@@ -1,10 +1,6 @@
-# testpublicrepo - editing line1
+# testpublicrepo
 
-My change 10.1
+3
 
+this is a test
 
-
-Some lines here and here
-
-
-edit more here
